@@ -2,7 +2,7 @@
 
 A simple web app made to welcome users with the use of Flask framework.
 
-#How to start
+# how to start
 
 1. Clone the repository.
 2. Install the requirements using command: pip install -r requirements.txt.
